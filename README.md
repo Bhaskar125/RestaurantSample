@@ -1,2 +1,0 @@
-# RestaurantSample
-Restaurant Sample
